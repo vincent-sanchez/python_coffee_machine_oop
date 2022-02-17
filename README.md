@@ -1,5 +1,4 @@
 # 100 Days of Code | Day 16 | Coffee Machine OOP
-This repo contains 4 files: art.py and main.py.
 
 main.py was insructed to be updated to use the other imported python files to create objects and use those objects methods and attributes for Day 16 of the 100 Days of Code: Python course from Dr. Angela Yu.
 
